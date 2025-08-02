@@ -18,4 +18,4 @@ Classification modeling for delta_load_per_account_binary showed that the SVM wi
 
 Overall, these models are an interesting start to this investigation. In future work, additional data sources will be useful, including more detailed weather data per zipcode and more detailed data about energy efficiency investments. Additionally, removing variables with excessive multicollinearity will be useful.
 
-![SCE Loads](sce-loads.png)
+![SCE Loads](sce_loads.png)
